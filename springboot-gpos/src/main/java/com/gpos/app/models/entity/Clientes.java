@@ -4,7 +4,7 @@
 package com.gpos.app.models.entity;
 
 /**
- * @author Nahum Martinez2
+ * @author Nahum Martinez
  *
  */
 public class Clientes {
